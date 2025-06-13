@@ -2,6 +2,12 @@
 
 Microbash è una mini-shell scritta in C come progetto del laboratorio di **Sistemi di Elaborazione e Trasmissione dell’Informazione (SETI)**, a.a. 2024/2025.
 
+## 🧑‍💻 Membri
+
+- [Baldini Filippo](mailto:6393212@studenti.unige.it)
+- [Giacomo Cerlesi](mailto:6364436@studenti.unige.it)
+- [Giovanni Pio Antonuccio](mailto:5603204@studenti.unige.it)
+
 ## Scopo
 
 L'obiettivo di Microbash è fornire un'implementazione semplificata di una shell Unix, per esercitarsi con le principali system call POSIX per la gestione dei processi.
