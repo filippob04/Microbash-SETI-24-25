@@ -8,11 +8,11 @@ Microbash è una mini-shell scritta in C come progetto del laboratorio di **Sist
 - [Giacomo Cerlesi](mailto:6364436@studenti.unige.it)
 - [Giovanni Pio Antonuccio](mailto:5603204@studenti.unige.it)
 
-## Scopo
+## 🎯 Scopo
 
 L'obiettivo di Microbash è fornire un'implementazione semplificata di una shell Unix, per esercitarsi con le principali system call POSIX per la gestione dei processi.
 
-## Funzionalità principali
+## 📄 Funzionalità principali
 
 - **Prompt** che mostra la directory corrente seguita da `$`
 - **Parsing** dei comandi da standard input, inclusi:
@@ -24,7 +24,7 @@ L'obiettivo di Microbash è fornire un'implementazione semplificata di una shell
   - Deve essere l’unico comando della linea
   - Non può avere redirezioni o pipe
 
-## Esempi di comandi validi
+## 🧪 Esempi di comandi validi
 
 ```bash
 cd dir
